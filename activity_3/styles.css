@@ -1,0 +1,46 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    color: #333;
+    margin: 0;
+    padding: 20px;
+}
+
+h1 {
+    color: hsl(200, 100%, 40%);
+}
+
+h2 {
+    color: #333;
+}
+
+.description {
+    font-size: 1.1em;
+    color: #555;
+}
+
+.rating {
+    background-color: #ffd700;
+    padding: 5px;
+    margin-top: 10px;
+}
+
+.stars {
+    font-size: 1.5em;
+}
+
+
+.review p {
+    color: #2c3e50;
+}
+
+
+a {
+    text-decoration: none;
+    color: #3498db;
+}
+
+a:hover {
+    color: #2980b9;
+}
